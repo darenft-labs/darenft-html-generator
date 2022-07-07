@@ -36,7 +36,7 @@ To get started *fork*, *clone* or *download* the repository.
 #### Cloning or downloading
 In order to clone this repository, run the command below or use the download button.
 ```
-git clone https://github.com/DefaultSimon/webpack-static-site-template.git
+git clone https://gitlab.com/dare-dev/boilerplates/dare-html-generator.git
 ```
 
 If you intend to push changes to your site to your own repository though, you'll have to update the remote in your clone (which forking already does for you). For further help, see [this article](https://help.github.com/en/articles/cloning-a-repository).
