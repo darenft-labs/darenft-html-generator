@@ -17,3 +17,4 @@ dist
 ## Cache
 .eslintcache
 .stylelintcache
+.DS_Store
